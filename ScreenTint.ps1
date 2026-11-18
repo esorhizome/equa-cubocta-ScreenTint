@@ -1,6 +1,6 @@
 # =====================================================================
 #  ScreenTint.ps1  (v2.1) -  a personal full-screen color filter for Windows
-#  (c) 2026 esorhizome OU - CC BY 4.0 (creativecommons.org/licenses/by/4.0)
+#  (c) 2026 Sarah Clemencia Gomes (esorhizome) - CC BY 4.0 (creativecommons.org/licenses/by/4.0)
 # =====================================================================
 #  What this program does, in full:
 #    1. Draws one borderless, click-through, always-on-top colored

@@ -189,6 +189,6 @@ Everything else: settings.json + tray Reload.
 
 ## License
 
-Copyright © 2026 esorhizome OÜ. Released under the
+Copyright © 2026 Sarah Clemencia Gomes (esorhizome). Released under the
 [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
 license (CC BY 4.0) — use, modify, and share freely, with attribution.
